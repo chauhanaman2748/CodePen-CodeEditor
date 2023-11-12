@@ -10,6 +10,9 @@
  4. TypeScript
  5. EsLint
  6. NX
+ 7. MUI npm install @mui/material @mui/styled-engine-sc styled-components --f
+ 8. set npx nx serve code-pen --watch
+ 9. npm i codemirror@version5 --f
 
 
 
